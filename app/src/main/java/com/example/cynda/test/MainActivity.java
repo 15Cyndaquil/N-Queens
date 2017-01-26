@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     static int layoutTopBoarder;
     static int square;
 
-    static int boardSize = 20;
+    static int boardSize = 8;
     String[][] boardOfUsed = setBoard();
     String[][] boardOfButtons = setBoardBT();
 
